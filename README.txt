@@ -1,3 +1,5 @@
+![Swear To God Cover Image](https://raw.githubusercontent.com/JuriKnauth/juriknauth.github.io/master/Images/Preview/SwearToGodCoverDayT1080.png)
+
 Title		Swear to God
 Version		1.1
 
@@ -42,3 +44,5 @@ Links		itch.io: 	https://jurik.itch.io/swear-to-god
 
 License		All rights reserved
 Copyright	©
+
+![Swear To God Ingame Screenshot](https://raw.githubusercontent.com/JuriKnauth/juriknauth.github.io/master/Images/Preview/SwearToGodScreenShot.png)
