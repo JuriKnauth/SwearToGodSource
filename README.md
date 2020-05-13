@@ -32,7 +32,7 @@ Request Feature
 
 Report a Bug 
 
-- [https://forms.gle/YnZfX7tc4W3PV1ze6](https://forms.gle/YnZfX7tc4W3PV1ze6 "https://forms.gle/YnZfX7tc4W3PV1ze6")
+- [https://forms.gle/HsEpJDRog3QGE7xaA](https://forms.gle/HsEpJDRog3QGE7xaA "https://forms.gle/HsEpJDRog3QGE7xaA")
 
 Published 
 
